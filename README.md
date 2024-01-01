@@ -1,12 +1,15 @@
 ****How to build and automate a python ETL pipeline with airflow on AWS EC2 | Data Engineering Project****
 
-In this data engineering project, I learnt how to build and automate an ETL process that can extract 
+In the course of this data engineering project, I acquired the skills to construct and automate an ETL (Extract, Transform, Load) process with the following steps:
 
-Step 1 - current weather data from open weather map API
+1. **Step 1:**
+   - Extracting current weather data from the OpenWeatherMap API.
 
-Step 2 - transform the data and load the data into an S3 bucket using Apache Airflow. 
+2. **Step 2:**
+   - Transforming the extracted data and subsequently loading it into an S3 bucket, all orchestrated through Apache Airflow.
 
-Step 3 - Apache Airflow such as DAG and Operators 
+3. **Step 3:**
+   - Gaining proficiency in Apache Airflow concepts such as Directed Acyclic Graphs (DAGs) and Operators.
 
 
 Throughout this project, I acquired knowledge in the following areas:
